@@ -4,9 +4,11 @@
 [![Isaac Lab Version](https://img.shields.io/badge/Isaac_Lab-2024.1-blue.svg)](https://github.com/isaac-sim/IsaacLab)
 [![Kinova Gen3](https://img.shields.io/badge/Kinova-Gen3_7DoF-red.svg)](https://www.kinovarobotics.com/product/gen3-robots)
 
-<div align="center">
+<center>
+
 [English](./README.md) | [中文](./README_Ch.md)
-</div>
+
+</center>
 
 An open-source research for Kinova Gen3 manipulator control in Isaac Lab environment.
 
@@ -37,7 +39,7 @@ Always maintain emergency stop access when operating physical robotic systems. V
   - Cartesian space end-effector control
   - Damped Least Squares (DLS) solver
   - Multi-environment simulation support
-  
+
 ![alt text](notes/gen3_control_scene.gif)
 
 ## :chart_with_upwards_trend: Roadmap

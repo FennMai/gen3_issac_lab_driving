@@ -4,9 +4,11 @@
 [![Isaac Lab 版本](https://img.shields.io/badge/Isaac_Lab-2024.1-blue.svg)](https://github.com/isaac-sim/IsaacLab)
 [![Kinova Gen3](https://img.shields.io/badge/Kinova-Gen3_7DoF-red.svg)](https://www.kinovarobotics.com/product/gen3-robots)
 
-<div align="center">
+<center>
+
 [English](./README.md) | [中文](./README_Ch.md)
-</div>
+
+</center>
 
 
 基于 Isaac Lab 环境的 Kinova Gen3 机械臂控制开源研究平台
@@ -36,7 +38,7 @@
   - 笛卡尔空间末端执行器控制
   - 阻尼最小二乘法 (DLS) 求解器
   - 多环境仿真支持
-  
+
 ![alt text](notes/gen3_control_scene.gif)
 
 ---
