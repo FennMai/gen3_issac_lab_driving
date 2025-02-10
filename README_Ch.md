@@ -29,7 +29,7 @@
 **硬件安全声明**  
 操作实体机器人系统时，请始终确保紧急停止功能的可用性。硬件部署前请先在仿真环境中验证所有控制指令。
 
----
+
 
 ## :rocket: 已实现功能
 
@@ -55,7 +55,7 @@
 - [ ] 仿真到实物迁移模块
 - [ ] 多模态感知系统
 
----
+
 
 ## :books: 学习资源
 
@@ -68,7 +68,7 @@
 | [操作实验](https://github.com/kyassini/manipulation_experiments) | 先进控制策略 |
 
 
----
+
 
 ## :balance_scale: 许可协议
 BSD 3-Clause License - 完整文本请查看 [LICENSE](LICENSE)

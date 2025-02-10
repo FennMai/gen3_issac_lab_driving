@@ -30,7 +30,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR SHALL
 **Hardware Safety Notice**  
 Always maintain emergency stop access when operating physical robotic systems. Verify all control commands in simulation before hardware deployment.
 
----
+
 
 ## :rocket: Features
 
@@ -54,7 +54,6 @@ Always maintain emergency stop access when operating physical robotic systems. V
 - [ ] Sim2Real transfer modules
 - [ ] Multi-modal perception system
 
----
 
 ## :books: Learning Resources
 
